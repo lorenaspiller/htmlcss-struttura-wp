@@ -32,13 +32,13 @@ header {
   margin-top: 40px;
 }
 
-.contenitore-rows {
+.rows {
   background-color: #0E85EA;
   margin-top: 40px;
   padding-bottom: 20px;
 }
 
-.row-top {
+.rows .row-top {
   background-color: #ABCFE7;
   margin-bottom: 20px;
   height: 120px;
