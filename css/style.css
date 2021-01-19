@@ -10,3 +10,16 @@
   display: block;
   clear: both;
 }
+
+.contenitore {
+  width: 70%;
+  margin: auto;
+}
+
+/* header */
+header {
+  background-color: #E579E6;
+  height: 150px;
+  margin-top: 20px;
+}
+/* /header */
