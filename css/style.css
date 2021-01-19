@@ -65,3 +65,13 @@ header {
   height: 700px;
 }
 /* /main */
+
+
+/* footer */
+footer {
+  height: 100px;
+  background-color: #8801FE;
+  margin: 25px 0;
+
+}
+/* /footer */
