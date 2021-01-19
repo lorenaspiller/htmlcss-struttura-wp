@@ -23,3 +23,12 @@ header {
   margin-top: 20px;
 }
 /* /header */
+
+/* main */
+.hero {
+  background-color: #E3D67A;
+  height: 700px;
+  margin-top: 40px;
+}
+
+/* /main */
