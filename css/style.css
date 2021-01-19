@@ -24,6 +24,7 @@ header {
 }
 /* /header */
 
+
 /* main */
 .hero {
   background-color: #E3D67A;
@@ -31,4 +32,36 @@ header {
   margin-top: 40px;
 }
 
+.contenitore-rows {
+  background-color: #0E85EA;
+  margin-top: 40px;
+  padding-bottom: 20px;
+}
+
+.row-top {
+  background-color: #ABCFE7;
+  margin-bottom: 20px;
+  height: 120px;
+}
+
+.c-left, .c-right {
+  width: 20%;
+}
+
+.c-middle {
+  width: 58%;
+  margin: 0 1%;
+}
+
+.row-top,
+.c-left,
+.c-right,
+.c-middle {
+  background-color: #ABCFE7;
+}
+
+.c-left, .c-right, .c-middle {
+  float: left;
+  height: 700px;
+}
 /* /main */
